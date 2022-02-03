@@ -1,0 +1,23 @@
+label {
+  font-size: "16px";
+  margin: "10px 0 10px 0px";
+}
+.bgRadioBtn {
+  color: "blue";
+}
+.size {
+  width: "150px";
+}
+.margen {
+  margin: "10px";
+}
+.styleContenedor {
+  display: "flex";
+  margin: "0 10px";
+  width: "350px";
+}
+.fila1 {
+  margin: "2rem";
+  width: "350px";
+  display: "flex";
+}
